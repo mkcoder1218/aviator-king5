@@ -1,0 +1,6 @@
+{
+  "name": "Aviator Game",
+  "description": "An authentic high-fidelity interactive simulation of the Aviator crash game by Spribe. Keep track of live multipliers, configure dual betting panels, simulate multiplayer active bets, review high-score top wins, and manage your wallet balance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
